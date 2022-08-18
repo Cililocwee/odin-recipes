@@ -1,0 +1,8 @@
+.fancy-div {
+    background-color: cornflowerblue;
+    border: 3px;
+    border-color: blueviolet;
+    max-width: 500px;
+    padding: 15px 25px 15px 25px;
+    align-content: center;
+}
